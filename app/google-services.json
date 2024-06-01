@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612433353347",
+    "project_id": "aplikasi-travgo",
+    "storage_bucket": "aplikasi-travgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612433353347:android:04626a7ada8fcca7d159b6",
+        "android_client_info": {
+          "package_name": "com.example.aplikasitravgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612433353347-43iv84mckjnnkso32mf7n6ro7eq3jhp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTGYQqQAB5czSwZ7S75osJNJX4Ym_jVI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612433353347-43iv84mckjnnkso32mf7n6ro7eq3jhp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

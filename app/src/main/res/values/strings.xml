@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplikasi TravGo</string>
+    <string name="button_belum_register">Tidak memiliki akun? <font color='blue'>Daftar Sekarang</font></string>
+    <string name="sudah_register">Sudah memiliki akun? <font color='blue'>Login Sekarang</font></string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+    <string name="Ya">Ya</string>
+    <string name="Tidak">Tidak</string>
+    <string name="username_key">UsernameKey</string>
+</resources>
